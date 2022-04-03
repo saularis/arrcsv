@@ -1,2 +1,6 @@
 /venv
 .pypirc
+*.egg-info/
+*.cfg
+/build
+/dist
