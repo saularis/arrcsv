@@ -1,5 +1,5 @@
 # arrcsv
-[![Downloads](https://img.shields.io/badge/dynamic/json.svg?label=downloads&url=https%3A%2F%2Fpypistats.org%2Fapi%2Fpackages%2Farrcsv%2Frecent&query=data.last_month&colorB=brightgreen&suffix=%2FMonth)](https://pypistats.org/packages/arrcsv)
+[![Downloads](https://pepy.tech/badge/arrcsv/month)](https://pepy.tech/project/arrcsv)
 
 A python package for converting array to csv
 
